@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+    padding:5px
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+footer p{
+    border:2px solid gray;
+    padding:5px;
+}
+nav{
+    margin:10px;
+    padding:10px;
+    border:2px solid lightblue;
+}
+nav a{
+    margin:10px;
+    font-size:10px;
+    text-decoration: none;
+    color:rgb(90, 90, 90);
+}
+.pitard{
+    background-color: blue;
+    padding:10px;
+    border-radius:15px
+}
+main {
+    padding:10px;
+}
+main h2{
+    padding:20px;
+    color:blue;
+}
+.but {
+    text-decoration:none;
+    border:1px solid navy;
+    padding:5px;
+}
